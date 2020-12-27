@@ -1,0 +1,55 @@
+{
+  "report": {
+    "count": 35,
+    "reports": [
+    {
+      "id": 45981,
+      "time": "2020-01-14T04:20:00.000Z",
+      "size": 125,
+      "location": "1 NO'lu KONTEYNER",
+      "city": "SAFRANBOLU",
+      "county": "TÜRKİYE",
+      "state": "KY",
+      "lat": 41.247470,
+      "lon": 32.681407,
+      "comments": "PUBLIC REPORT RELAYED BY MEDIA. (LMK)",
+      "filename": null,
+      "created_at": "2020-03-05T14:54:06.650Z",
+      "updated_at": "2020-03-05T14:54:06.650Z"
+    },
+	{
+      "id": 45982,
+      "time": "2020-01-14T04:20:00.000Z",
+      "size": 125,
+      "location": "2 NO'lu KONTEYNER",
+      "city": "SAFRANBOLU",
+      "county": "TÜRKİYE",
+      "state": "KY",
+      "lat": 41.249051,
+      "lon": 32.682888,
+      "comments": "PUBLIC REPORT RELAYED BY MEDIA. (LMK)",
+      "filename": null,
+      "created_at": "2020-03-05T14:54:06.650Z",
+      "updated_at": "2020-03-05T14:54:06.650Z"
+    },
+	{
+      "id": 45983,
+      "time": "2020-01-14T04:20:00.000Z",
+      "size": 125,
+      "location": "3 NO'lu KONTEYNER",
+      "city": "SAFRANBOLU",
+      "county": "TÜRKİYE",
+      "state": "KY",
+      "lat": 41.251116,
+      "lon": 32.681086,
+      "comments": "PUBLIC REPORT RELAYED BY MEDIA. (LMK)",
+      "filename": null,
+      "created_at": "2020-03-05T14:54:06.650Z",
+      "updated_at": "2020-03-05T14:54:06.650Z"
+    }
+
+	
+  ]
+}
+  
+}
