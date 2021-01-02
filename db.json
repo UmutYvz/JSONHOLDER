@@ -2,54 +2,71 @@
   "report": {
     "count": 35,
     "reports": [
-    {
-      "id": 0,
-      "time": "2020-01-14T04:20:00.000Z",
-      "size": 125,
-      "location": "1 NO'lu KONTEYNER",
-      "city": "SAFRANBOLU",
-      "county": "TÜRKİYE",
-      "state": "KY",
-      "lat": 41.247470,
-      "lon": 32.681407,
-      "comments": "PUBLIC REPORT RELAYED BY MEDIA. (LMK)",
-      "filename": null,
-      "created_at": "2020-03-05T14:54:06.650Z",
-      "updated_at": "2020-03-05T14:54:06.650Z"
-    },
-	{
-      "id": 1,
-      "time": "2020-01-14T04:20:00.000Z",
-      "size": 125,
-      "location": "2 NO'lu KONTEYNER",
-      "city": "SAFRANBOLU",
-      "county": "TÜRKİYE",
-      "state": "KY",
-      "lat": 41.249051,
-      "lon": 32.682888,
-      "comments": "PUBLIC REPORT RELAYED BY MEDIA. (LMK)",
-      "filename": null,
-      "created_at": "2020-03-05T14:54:06.650Z",
-      "updated_at": "2020-03-05T14:54:06.650Z"
-    },
-	{
-      "id": 2,
-      "time": "2020-01-14T04:20:00.000Z",
-      "size": 125,
-      "location": "3 NO'lu KONTEYNER",
-      "city": "SAFRANBOLU",
-      "county": "TÜRKİYE",
-      "state": "KY",
-      "lat": 41.251116,
-      "lon": 32.681086,
-      "comments": "PUBLIC REPORT RELAYED BY MEDIA. (LMK)",
-      "filename": null,
-      "created_at": "2020-03-05T14:54:06.650Z",
-      "updated_at": "2020-03-05T14:54:06.650Z"
-    }
-
-	
-  ]
-}
-  
+      {
+        "id": 0,
+        "adress": "35. Sokak",
+        "street": "Merkez",
+        "district": "Safranbolu",
+        "city": "Karabük",
+        "country": "Türkiye",
+        "info": "1.Konteyner",
+        "lat": 41.247470,
+        "lon": 32.681407,
+        "created_at": "2020-03-05T14:54:06.650Z",
+        "updated_at": "2020-03-05T14:54:06.650Z"
+      },
+      {
+        "id": 1,
+        "adress": "36. Sokak",
+        "street": "Merkez",
+        "district": "Safranbolu",
+        "city": "Karabük",
+        "country": "Türkiye",
+        "info": "2.Konteyner",
+        "lat": 41.249051,
+        "lon": 32.682888,
+        "created_at": "2020-03-05T14:54:06.650Z",
+        "updated_at": "2020-03-05T14:54:06.650Z"
+      },
+      {
+        "id": 2,
+        "adress": "38. Sokak",
+        "street": "Merkez",
+        "district": "Safranbolu",
+        "city": "Karabük",
+        "country": "Türkiye",
+        "info": "3.Konteyner",
+        "lat": 41.251116,
+        "lon": 32.681086,
+        "created_at": "2020-03-05T14:54:06.650Z",
+        "updated_at": "2020-03-05T14:54:06.650Z"
+      },
+      {
+        "id": 3,
+        "adress": "39. Sokak",
+        "street": "Merkez",
+        "district": "Safranbolu",
+        "city": "Karabük",
+        "country": "Türkiye",
+        "info": "4.Konteyner",
+        "lat": 41.261116,
+        "lon": 32.671086,
+        "created_at": "2020-03-05T14:54:06.650Z",
+        "updated_at": "2020-03-05T14:54:06.650Z"
+      },
+      {
+        "id": 4,
+        "adress": "41. Sokak",
+        "street": "Merkez",
+        "district": "Safranbolu",
+        "city": "Karabük",
+        "country": "Türkiye",
+        "info": "5.Konteyner",
+        "lat": 41.231116,
+        "lon": 32.651086,
+        "created_at": "2020-03-05T14:54:06.650Z",
+        "updated_at": "2020-03-05T14:54:06.650Z"
+      }
+    ]
+  }
 }
